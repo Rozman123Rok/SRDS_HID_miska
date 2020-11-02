@@ -1,0 +1,10 @@
+main.c:77:6:krog	16	static
+main.c:106:6:miska_napredno	8	static
+main.c:169:5:main	24	static
+main.c:254:6:SystemClock_Config	112	static
+main.c:307:13:MX_I2C1_Init	8	static
+main.c:341:13:MX_I2S2_Init	8	static
+main.c:375:13:MX_I2S3_Init	8	static
+main.c:409:13:MX_SPI1_Init	8	static
+main.c:447:13:MX_GPIO_Init	56	static
+main.c:526:6:Error_Handler	4	static
